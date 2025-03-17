@@ -1,6 +1,6 @@
 # CODTECH--Task-2
 Name : Nandu Chandragiri 
-ID : :CT12WDOS 
+ID : :CT12WDRD
 Internship domain : Java Programming 
 Company : CodTech It Solutions 
 Duration : Dec 17 - Mar 17
